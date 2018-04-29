@@ -7,7 +7,7 @@ public class Replicate : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log (myName + " started");
+		Debug.Log (myName + " started!");
 
 	}
 	
